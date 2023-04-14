@@ -4,8 +4,11 @@ PhantomIsolation is a Minecraft plugin that allows players to using commands to 
 
 ## Using
 `/phantomisolation` check status
+
 `/phantomisolation disable` allow phantom to spawn on who using command (default)
+
 `/phantomisolation enable` prevent phantom to spawn on who using command
+
 
 
 ## Installation
